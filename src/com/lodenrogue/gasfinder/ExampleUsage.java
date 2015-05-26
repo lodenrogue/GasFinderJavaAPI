@@ -3,8 +3,8 @@ package com.lodenrogue.gasfinder;
 import java.util.List;
 
 class ExampleUsage {
-	private static final String LAT = "123.1232313";
-	private static final String LONG = "-123.12313";
+	private static final String LAT = "40.7127";
+	private static final String LONG = "-74.0059";
 	private static final String API_KEY = "example";
 
 	public static void main(String[] args) {
